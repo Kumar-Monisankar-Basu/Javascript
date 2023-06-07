@@ -4,6 +4,9 @@ Welcome to the Robot 2.0 tutorial! :wave:
 
 This tutorial is based on the Robot 2.0 repository and aims to guide you through character motion and animation in a 2D game. Get ready for an exciting journey! :video_game:
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
 ## Overview
 
 In this tutorial, you'll learn how to create a 2D game character that exhibits smooth motion and animation. The provided code snippet demonstrates the implementation of a robotic character with dynamic eye movements and body animation.
